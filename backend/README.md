@@ -1,0 +1,1 @@
+### This is the backend of the project word frequency calculator that calculates the top n words according to the frequency of words.
