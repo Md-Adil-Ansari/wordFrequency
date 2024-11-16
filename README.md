@@ -15,7 +15,7 @@ A web application that extracts, analyzes, and displays the top N most frequentl
 - **User Feedback and Notifications:** Instantly see alerts for errors (e.g., invalid URLs) and receive real-time status messages for a seamless experience.
 - **Loading Indicator:** A subtle loading spinner is shown while data is being retrieved and processed, enhancing user feedback.
 - **Comprehensive Error Handling:** Gracefully handles invalid inputs, server errors, and connectivity issues, with clear notifications.
-- 
+
 **Backend:**
 - **Tech Stack:** Node.js with Express.js for server routing and managing user interactions.
 - **Data Processing:** Axios for fetching webpage data, Cheerio for parsing HTML content.
